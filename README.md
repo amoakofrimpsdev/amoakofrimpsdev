@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://amoakofrimpsdev.github.io"><img src="https://img.shields.io/badge/portfolio-amoakofrimpsdev.github.io-00ff9c?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0d1117" alt="Portfolio" /></a>
-<img src="https://komarev.com/ghpvc/?username=amoakofrimpsdev&style=for-the-badge&color=00ff9c&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=amoakofrimpsdev.amoakofrimpsdev&left_color=0d1117&right_color=00ff9c&left_text=PROFILE%20VIEWS" alt="Profile views" />
 
 </div>
 
