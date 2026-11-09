@@ -86,8 +86,8 @@ Gallery        : https://daniel-photography-gilt.vercel.app
 ### 📊 `$ cat stats.json`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amoakofrimpsdev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoakofrimpsdev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9" alt="Top languages" />
+  <img height="165" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img height="165" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 </p>
 
 <p align="center">
